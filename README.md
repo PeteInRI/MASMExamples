@@ -1,5 +1,5 @@
 # MASMExamples
-Sample code for Beginning MASM Programmers
+
 This Repository is primarily for students taking CYB2010: Computer Architecture with Assembly Language Programming.
 Many of these examples are based on code by Kip Irvine. You can see his site here:
 http://www.asmirvine.com/gettingStartedVS2017/index.htm
